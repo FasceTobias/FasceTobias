@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @FasceTobias
-- 👀 I’m interested in Web design and Programming
-- 🌱 I’m currently learning HTML3. CSS, JavaScript and C++
-- 💞️ I’m looking to collaborate on any WebSite to practice a bit more
-- 📫 How to reach me: Contact me on Gmail [tobiasfasce@gmail.com]
+# Tobías Fasce
 
-<!---
-FasceTobias/FasceTobias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Inteligencia artificial y automatización empresarial** · Buenos Aires, Argentina
+
+Desarrollo soluciones de inteligencia artificial y automatización para empresas.
+Trabajo sobre procesos reales: relevo cómo opera cada área, detecto dónde se pierde tiempo y diseño la solución adecuada.
+Mi objetivo es que cada implementación genere mejoras medibles y sostenibles.
+
+---
+
+### Qué hago
+
+- **Sistemas internos** a medida para la gestión diaria de equipos y áreas.
+- **Automatización de procesos** e integración entre herramientas.
+- **Integraciones con WhatsApp** para atención y gestión comercial.
+- **Agentes de IA**, cuando realmente aportan valor al proceso.
+
+### Cómo trabajo
+
+`Diagnóstico` → `Objetivos` → `Priorización` → `Implementación` → `Medición`
+
+### Herramientas
+
+n8n · WhatsApp Business Platform · PostgreSQL · Supabase · Netlify · Gemini · ElevenLabs
